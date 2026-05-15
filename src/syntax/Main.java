@@ -1,4 +1,6 @@
-//this class Main
+package syntax;
+
+//this class syntax.Main
 public class Main {
 
     //this method "main" is entry point to our program
